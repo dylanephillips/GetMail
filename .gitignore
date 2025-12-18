@@ -1,0 +1,21 @@
+# Compiled Java files
+*.class
+
+# Logs
+*.log
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+nbproject/private/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# JavaMail / external libraries (if not needed in repo)
+*.jar
+
+# Temporary files
+*.tmp
